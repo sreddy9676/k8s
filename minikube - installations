@@ -1,7 +1,7 @@
 
 ```
 Install Docker:
----------------
+---------------```
 
 
 sudo apt-get install docker.io
@@ -31,4 +31,4 @@ check status of minikube
 
 minikube status
 
-```
+
